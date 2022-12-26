@@ -152,6 +152,16 @@ main{
     display: grid;
 }
 
+@media(max-width: 733px){
+    main{
+        background-color: whitesmoke
+    }
+    .cards{
+        display: block;
+
+    };
+}
+
 
 /* BUTTON */
 
